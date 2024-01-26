@@ -9,12 +9,12 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D _rg;
     [SerializeField] float moveSpeed = 2f;
     [SerializeField] float jumpSpeed = 2f;
-    public Animator _anim;
+    //public Animator _anim;
     CapsuleCollider2D capcol;
     void Start()
     {
         _rg = GetComponent<Rigidbody2D>();
-        _anim = GetComponent<Animator>();
+       // _anim = GetComponent<Animator>();
         capcol = GetComponent<CapsuleCollider2D>();
     }
 
@@ -48,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
         Vector2 playerVelocity = new Vector2(moveInput.x * moveSpeed, _rg.velocity.y);
         _rg.velocity = playerVelocity;
         bool PlayerHasHorizontalSpeed = Mathf.Abs(_rg.velocity.x) > Mathf.Epsilon;
-        _anim.SetBool("IsRunning", PlayerHasHorizontalSpeed);
+        //_anim.SetBool("IsRunning", PlayerHasHorizontalSpeed);
     }
     void FlipSprite()
     {
