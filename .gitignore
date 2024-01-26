@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+The Legend of The Hamster - The Breath of The Food/[Ll]ibrary/
+The Legend of The Hamster - The Breath of The Food/[Tt]emp/
+The Legend of The Hamster - The Breath of The Food/[Oo]bj/
+The Legend of The Hamster - The Breath of The Food/[Bb]uild/
+The Legend of The Hamster - The Breath of The Food/[Bb]uilds/
+The Legend of The Hamster - The Breath of The Food/[Ll]ogs/
+The Legend of The Hamster - The Breath of The Food/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
