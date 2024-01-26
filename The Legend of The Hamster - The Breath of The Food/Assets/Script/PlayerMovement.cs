@@ -10,12 +10,12 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float moveSpeed = 2f;
     [SerializeField] float jumpSpeed = 2f;
     //public Animator _anim;
-    CapsuleCollider2D capcol;
+    BoxCollider2D capcol;
     void Start()
     {
         _rg = GetComponent<Rigidbody2D>();
        // _anim = GetComponent<Animator>();
-        capcol = GetComponent<CapsuleCollider2D>();
+        capcol = GetComponent<BoxCollider2D>();
     }
 
     void Update()
@@ -35,14 +35,14 @@ public class PlayerMovement : MonoBehaviour
             _rg.velocity += new Vector2(0f, jumpSpeed);
         }
     }
-    void ClimbLadder(InputValue value)
+    /*void ClimbLadder(InputValue value)
     {
         if (!capcol.IsTouchingLayers(LayerMask.GetMask("Ground"))) { return; }
         if (value.isPressed)
         {
             Vector2 playerVelocity = new Vector2(_rg.velocity.x, moveInput.y * moveSpeed);
         }
-    }
+    }*/
     void Run()
     {
         Vector2 playerVelocity = new Vector2(moveInput.x * moveSpeed, _rg.velocity.y);
@@ -55,7 +55,7 @@ public class PlayerMovement : MonoBehaviour
         bool PlayerHasHorizontalSpeed = Mathf.Abs(_rg.velocity.x) > Mathf.Epsilon;
         if (PlayerHasHorizontalSpeed)
         {
-            transform.localScale = new Vector2(Mathf.Sign(_rg.velocity.x), 1f);
+            transform.localScale = new Vector2(Mathf.Sign(_rg.velocity.x * 1.5f), 2.4f);
         }
     }
 }
