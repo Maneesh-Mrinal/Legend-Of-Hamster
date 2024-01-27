@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 05e7bc12c43afaa4fb8576f6f7c73493
+guid: 2a71d00ecfd33244a93f43ee83f0a21a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1980842044218229214
-    second: lawn_mover_0
+      213: -1634226699488947725
+    second: lawn_mover_8bit_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lawn_mover_0
+      name: lawn_mover_8bit_0
       rect:
         serializedVersion: 2
         x: 0
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed149c1285d5d7b10800000000000000
-      internalID: 1980842044218229214
+      spriteID: 3f1908ea97f0259e0800000000000000
+      internalID: -1634226699488947725
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      lawn_mover_0: 1980842044218229214
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
