@@ -1,0 +1,13 @@
+v. 230112
+manipulationMode deform
+animRecMode overwrite
+playAnimation 1
+playAnimWhenSelected 1
+showControlPoints 1
+showTemplateImg 1
+showBackgroundImg 0
+showTextureUseMatcapShading 1
+enableArmpitsStitching 0
+enableNormalSmoothing 1
+middleMouseSimulation 0
+defaultInflationAmount 2
