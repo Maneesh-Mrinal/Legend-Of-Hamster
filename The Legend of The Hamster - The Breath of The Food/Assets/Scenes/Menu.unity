@@ -808,6 +808,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 565009175}
   m_CullTransparentMesh: 1
+<<<<<<< Updated upstream
 --- !u!1 &747278328
 GameObject:
   m_ObjectHideFlags: 0
@@ -846,6 +847,8 @@ RectTransform:
   m_AnchoredPosition: {x: -49.000008, y: -142.00002}
   m_SizeDelta: {x: 508.34424, y: 386.19418}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> Stashed changes
 --- !u!1 &823240786
 GameObject:
   m_ObjectHideFlags: 0
@@ -874,15 +877,24 @@ RectTransform:
   m_GameObject: {fileID: 823240786}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
   m_LocalScale: {x: 0.35, y: 0.35, z: 0.35}
+=======
+  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
+>>>>>>> Stashed changes
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1961073124}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
   m_AnchoredPosition: {x: 0, y: 138.24385}
   m_SizeDelta: {x: 500, y: 396}
+=======
+  m_AnchoredPosition: {x: 4, y: 142.00002}
+  m_SizeDelta: {x: 500, y: 329}
+>>>>>>> Stashed changes
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &823240788
 MonoBehaviour:
@@ -1121,6 +1133,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
 --- !u!1 &1132746522
 GameObject:
   m_ObjectHideFlags: 0
@@ -1200,6 +1213,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1132746522}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> Stashed changes
 --- !u!1 &1218729238
 GameObject:
   m_ObjectHideFlags: 0
@@ -1627,8 +1642,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 500, y: 243}
+=======
+  m_AnchoredPosition: {x: -1, y: 5}
+  m_SizeDelta: {x: 500, y: 329}
+>>>>>>> Stashed changes
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1389220386
 MonoBehaviour:
@@ -1718,7 +1738,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_Sprite: {fileID: 1845707480117125899, guid: 88069f3ffd0c387418aa9ac2528a6a45, type: 3}
+=======
+  m_Sprite: {fileID: 6055045571043105099, guid: 3f0250b5736d4c54199b3af7814b73f7, type: 3}
+>>>>>>> Stashed changes
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2117,8 +2141,13 @@ RectTransform:
   m_GameObject: {fileID: 1726914214}
   m_LocalRotation: {x: -0, y: -0, z: -0.001244861, w: 0.9999992}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
   m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
   m_ConstrainProportionsScale: 1
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+>>>>>>> Stashed changes
   m_Children: []
   m_Father: {fileID: 1961073124}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.143}
