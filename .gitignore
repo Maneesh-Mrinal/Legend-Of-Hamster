@@ -74,6 +74,7 @@ crashlytics-build.properties
 # Joshua's
 *.psd
 *.blend
+*.blend1
 
 /BlenderWorkspace/characters/hamsters
 /BlenderWorkspace/characters/spider
