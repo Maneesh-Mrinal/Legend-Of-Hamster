@@ -72,4 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Joshua's
-/BlenderWorkspace/
+/BlenderWorkspace/characters
+/BlenderWorkspace/environment/lawn/OG
+*.psd
+BlenderWorkspace/Taunt.fbx
