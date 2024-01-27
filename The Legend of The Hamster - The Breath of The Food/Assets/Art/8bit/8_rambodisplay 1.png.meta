@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      8_rambodisplay 1_0: -7320134367613052267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
