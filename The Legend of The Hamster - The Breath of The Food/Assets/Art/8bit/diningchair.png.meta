@@ -116,12 +116,12 @@ TextureImporter:
       name: diningchair_0
       rect:
         serializedVersion: 2
-        x: 227
-        y: 42
-        width: 540
-        height: 938
+        x: 1387
+        y: 239
+        width: 3221
+        height: 5761
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -136,14 +136,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7b13caf2588dba641989b1d57bd76504
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      diningchair_0: 6183555330093010180
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
