@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 6249757185777702008}
   m_Layer: 0
   m_Name: Ham
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -200,11 +200,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  jumpSpeed: 25
+  jumpSpeed: 50
   _anim: {fileID: 8863481438307802912}
   _animZoom: {fileID: 0}
   gun: {fileID: 7986921140396236672}
   ramboPicture: {fileID: 0}
+  playerHealth: 100
 --- !u!95 &8863481438307802912
 Animator:
   serializedVersion: 7
@@ -253,6 +254,8 @@ GameObject:
   m_Component:
   - component: {fileID: 5456555051912172222}
   - component: {fileID: 713041603112446252}
+  - component: {fileID: 4027945086132984489}
+  - component: {fileID: 3951478061944993291}
   m_Layer: 0
   m_Name: Gun
   m_TagString: Untagged
@@ -272,7 +275,8 @@ Transform:
   m_LocalPosition: {x: 2.68, y: -1.83, z: 0}
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_ConstrainProportionsScale: 1
-  m_Children: []
+  m_Children:
+  - {fileID: 425123410563938708}
   m_Father: {fileID: 1695735043552293236}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &713041603112446252
@@ -329,3 +333,79 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &4027945086132984489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7986921140396236672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e77fdaa65684fc240b12ba32e543ffd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletProjectile: {fileID: 2855737370359052857, guid: da8a4a81f1d171848acfbc0c682a898c, type: 3}
+  BulletSpawner: {fileID: 8679533680680059552}
+  moveSpeed: 5
+--- !u!114 &3951478061944993291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7986921140396236672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: d89955b15b31bba4e94e39aa1dbb317a, type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
+--- !u!1 &8679533680680059552
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 425123410563938708}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 2488908585195742037, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &425123410563938708
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8679533680680059552}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.681, y: -0.038, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5456555051912172222}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

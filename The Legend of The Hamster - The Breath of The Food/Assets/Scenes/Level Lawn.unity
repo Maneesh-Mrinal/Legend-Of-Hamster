@@ -1692,7 +1692,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -3656170279632559942, guid: 11568fcad0177d74d879c8937496d7ca, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1712,9 +1712,9 @@ Transform:
   m_GameObject: {fileID: 138897707}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 49.8, y: 73.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalPosition: {x: 89.52, y: 70.6, z: 0}
+  m_LocalScale: {x: 6, y: 6, z: 6}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9302,7 +9302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ad980451443d70438faac0bc6c235a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_TrackedObjectOffset: {x: 13.39, y: 6.7, z: 0}
+  m_TrackedObjectOffset: {x: 14.17, y: 2.23, z: 0}
   m_LookaheadTime: 0
   m_LookaheadSmoothing: 0
   m_LookaheadIgnoreY: 0
@@ -10946,7 +10946,7 @@ Camera:
   far clip plane: 5000
   field of view: 40
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 12
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -10971,7 +10971,7 @@ Transform:
   m_GameObject: {fileID: 1541315191}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -36.05449, y: -24.977543, z: -10.361827}
+  m_LocalPosition: {x: -35.27449, y: -29.447542, z: -10.361827}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13009,8 +13009,8 @@ PolygonCollider2D:
     - - {x: -12.307611, y: 94.97853}
       - {x: -16.376846, y: 8.541967}
       - {x: -39.26323, y: 7.315051}
-      - {x: -39.30096, y: -16.386538}
-      - {x: 140.20744, y: -14.983074}
+      - {x: -38.415333, y: -22.364586}
+      - {x: 139.98602, y: -22.06817}
       - {x: 131.61453, y: 89.03357}
       - {x: 44.791866, y: 91.040115}
   m_UseDelaunayMesh: 0
@@ -14740,7 +14740,7 @@ Transform:
   m_GameObject: {fileID: 2094138730}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -36.05449, y: -24.977543, z: -10.361827}
+  m_LocalPosition: {x: -35.27449, y: -29.447542, z: -10.361827}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -14784,7 +14784,7 @@ MonoBehaviour:
   m_Follow: {fileID: 435789287}
   m_Lens:
     FieldOfView: 40
-    OrthographicSize: 10
+    OrthographicSize: 12
     NearClipPlane: 0.1
     FarClipPlane: 5000
     Dutch: 0
@@ -15090,26 +15090,43 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3865516936083545550, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
-      propertyPath: jumpSpeed
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 3865516936083545550, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
       propertyPath: ramboPicture
       value: 
       objectReference: {fileID: 1953606839}
+    - target: {fileID: 3951478061944993291, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
+      propertyPath: m_DefaultActionMap
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456555051912172222, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456555051912172222, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456555051912172222, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456555051912172222, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456555051912172222, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6316763476794616430, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
       propertyPath: m_Name
       value: Ham
-      objectReference: {fileID: 0}
-    - target: {fileID: 6316763476794616430, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
-      propertyPath: m_TagString
-      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 7986921140396236672, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3951478061944993291, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
