@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -9,13 +10,17 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D _rg;
     [SerializeField] float moveSpeed = 2f;
     [SerializeField] float jumpSpeed = 2f;
-    //public Animator _anim;
-    BoxCollider2D capcol;
+    public Animator _anim;
+    public Animator _animZoom;
+    CapsuleCollider2D capcol;
+    public GameObject gun;
+    public GameObject ramboPicture;
+    public int playerHealth = 100;
     void Start()
     {
         _rg = GetComponent<Rigidbody2D>();
-       // _anim = GetComponent<Animator>();
-        capcol = GetComponent<BoxCollider2D>();
+        _anim = GetComponent<Animator>();
+        capcol = GetComponent<CapsuleCollider2D>();
     }
 
     void Update()
@@ -48,14 +53,34 @@ public class PlayerMovement : MonoBehaviour
         Vector2 playerVelocity = new Vector2(moveInput.x * moveSpeed, _rg.velocity.y);
         _rg.velocity = playerVelocity;
         bool PlayerHasHorizontalSpeed = Mathf.Abs(_rg.velocity.x) > Mathf.Epsilon;
-        //_anim.SetBool("IsRunning", PlayerHasHorizontalSpeed);
+        _anim.SetBool("isWalking", PlayerHasHorizontalSpeed);
     }
     void FlipSprite()
     {
         bool PlayerHasHorizontalSpeed = Mathf.Abs(_rg.velocity.x) > Mathf.Epsilon;
         if (PlayerHasHorizontalSpeed)
         {
-            transform.localScale = new Vector2(Mathf.Sign(_rg.velocity.x * 1.5f), 2.4f);
+            transform.localScale = new Vector2(Mathf.Sign(_rg.velocity.x) * 0.5f, 0.5f);
         }
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.CompareTag("RamboPower") == true)
+        {
+            Destroy(other.gameObject);
+            ramboPicture.SetActive(true);
+            gun.SetActive(true);
+            StartCoroutine(WaitForTwoSeconds());
+            ramboPicture.SetActive(false);
+        }
+        if(other.CompareTag("Damage Objects"))
+        {
+            playerHealth -= other.gameObject.GetComponent<MoveProjectile>().damageDealt;
+            Destroy(other.gameObject);
+        }
+    }
+    IEnumerator WaitForTwoSeconds()
+    {
+        yield return new WaitForSeconds(2f);
     }
 }

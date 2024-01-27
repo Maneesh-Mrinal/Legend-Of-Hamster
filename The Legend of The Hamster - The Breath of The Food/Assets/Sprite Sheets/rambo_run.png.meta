@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: c446ae832fe94584d8372d32328cd1f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3609732139035627633
+    second: rambo_run_0
+  - first:
+      213: 8429300569946551720
+    second: rambo_run_1
+  - first:
+      213: -6201323955945243749
+    second: rambo_run_2
+  - first:
+      213: -6831560600037516333
+    second: rambo_run_3
+  - first:
+      213: 7275044158084935308
+    second: rambo_run_4
+  - first:
+      213: -5020245695507785620
+    second: rambo_run_5
+  - first:
+      213: -1200828276788532456
+    second: rambo_run_6
+  - first:
+      213: -1565169574229827644
+    second: rambo_run_7
+  - first:
+      213: -5364522842637693808
+    second: rambo_run_8
+  - first:
+      213: 3392018920595842015
+    second: rambo_run_9
+  - first:
+      213: 276610928739725124
+    second: rambo_run_10
+  - first:
+      213: -4203464804473586842
+    second: rambo_run_11
+  - first:
+      213: -2925864901713823743
+    second: rambo_run_12
+  - first:
+      213: 6371715562494352870
+    second: rambo_run_13
+  - first:
+      213: -3971705387826764819
+    second: rambo_run_14
+  - first:
+      213: 1265718834266426391
+    second: rambo_run_15
+  - first:
+      213: -5823565991717000826
+    second: rambo_run_16
+  - first:
+      213: -2237935488109313586
+    second: rambo_run_17
+  - first:
+      213: 2759564531333066190
+    second: rambo_run_18
+  - first:
+      213: -59141851314596517
+    second: rambo_run_19
+  - first:
+      213: 7992849825493437488
+    second: rambo_run_20
+  - first:
+      213: -3467918597791228957
+    second: rambo_run_21
+  - first:
+      213: -2551768021038621571
+    second: rambo_run_22
+  - first:
+      213: 8566483327825184868
+    second: rambo_run_23
+  - first:
+      213: -4520890675354539414
+    second: rambo_run_24
+  - first:
+      213: -810014631835718604
+    second: rambo_run_25
+  - first:
+      213: -3883552752871403577
+    second: rambo_run_26
+  - first:
+      213: 8342332539120246006
+    second: rambo_run_27
+  - first:
+      213: -1982738093630836388
+    second: rambo_run_28
+  - first:
+      213: -455543316974995151
+    second: rambo_run_29
+  - first:
+      213: -861838258296073315
+    second: rambo_run_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rambo_run_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 5399
+        width: 639
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17097895148581230800000000000000
+      internalID: 3609732139035627633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_1
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 5399
+        width: 690
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a579a04534eaf470800000000000000
+      internalID: 8429300569946551720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_2
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 5399
+        width: 727
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b73c4d7b870f9a0800000000000000
+      internalID: -6201323955945243749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_3
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 5433
+        width: 752
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db953554db6131a0800000000000000
+      internalID: -6831560600037516333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_4
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 5399
+        width: 740
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eeeefed1626f460800000000000000
+      internalID: 7275044158084935308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_5
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 5399
+        width: 714
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68131a6321845ab0800000000000000
+      internalID: -5020245695507785620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4319
+        width: 740
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b66c56b0dc55fe0800000000000000
+      internalID: -1200828276788532456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_7
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 4341
+        width: 752
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf18ca9096674ae0800000000000000
+      internalID: -1565169574229827644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_8
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 4319
+        width: 752
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c8c17a5e26d85b0800000000000000
+      internalID: -5364522842637693808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_9
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 4353
+        width: 740
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e4819c3fd21f20800000000000000
+      internalID: 3392018920595842015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_10
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 4319
+        width: 714
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fa5849c28b6d300800000000000000
+      internalID: 276610928739725124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_11
+      rect:
+        serializedVersion: 2
+        x: 5458
+        y: 4319
+        width: 740
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bbe7ff70b4aa5c0800000000000000
+      internalID: -4203464804473586842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3239
+        width: 752
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1087090bf5d3567d0800000000000000
+      internalID: -2925864901713823743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_13
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 3261
+        width: 752
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eddd489b81ec6850800000000000000
+      internalID: 6371715562494352870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_14
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3239
+        width: 740
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3a4162efaa1e8c0800000000000000
+      internalID: -3971705387826764819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_15
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 3273
+        width: 714
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cc8fdd29cb09110800000000000000
+      internalID: 1265718834266426391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_16
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 3239
+        width: 740
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689a9a9c5998e2fa0800000000000000
+      internalID: -5823565991717000826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_17
+      rect:
+        serializedVersion: 2
+        x: 5458
+        y: 3239
+        width: 752
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec10109d78141f0e0800000000000000
+      internalID: -2237935488109313586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2159
+        width: 752
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdefd80251fb4620800000000000000
+      internalID: 2759564531333066190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_19
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2181
+        width: 740
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55d801bcc2ed2ff0800000000000000
+      internalID: -59141851314596517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_20
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 2159
+        width: 714
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c449f719e4cee60800000000000000
+      internalID: 7992849825493437488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_21
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 2193
+        width: 740
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebdeacb86a7fdfc0800000000000000
+      internalID: -3467918597791228957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_22
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 2159
+        width: 752
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c9ac4318c469cd0800000000000000
+      internalID: -2551768021038621571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_23
+      rect:
+        serializedVersion: 2
+        x: 5458
+        y: 2159
+        width: 752
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4688351133342e670800000000000000
+      internalID: 8566483327825184868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1079
+        width: 740
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aed1b22e19241c0800000000000000
+      internalID: -4520890675354539414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_25
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1101
+        width: 714
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c2096ebff32c4f0800000000000000
+      internalID: -810014631835718604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_26
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1079
+        width: 702
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf0c92e859da1ac0800000000000000
+      internalID: -3883552752871403577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_27
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 1113
+        width: 690
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd178ae3be5c370800000000000000
+      internalID: 8342332539120246006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_28
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 1079
+        width: 664
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51bf767536eb74e0800000000000000
+      internalID: -1982738093630836388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_29
+      rect:
+        serializedVersion: 2
+        x: 5508
+        y: 1079
+        width: 652
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f6eb44c59da9f0800000000000000
+      internalID: -455543316974995151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rambo_run_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 639
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93db689ba22a04f0800000000000000
+      internalID: -861838258296073315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
