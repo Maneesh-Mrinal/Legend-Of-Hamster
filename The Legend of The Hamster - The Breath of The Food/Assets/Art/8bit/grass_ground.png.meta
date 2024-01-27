@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8ec3390a15a8c1045af70682f8eeae42
+guid: 005eae1ec2b80b640b98f563f09cc077
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6058072826976217407
-    second: 8_rambodisplay_0
+      213: 156289867181409885
+    second: grass_ground_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 8_rambodisplay_0
+      name: grass_ground_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 500
-        height: 356
+        width: 268
+        height: 103
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c6d2a46cd66deba0800000000000000
-      internalID: -6058072826976217407
+      spriteID: d56475f5ec04b2200800000000000000
+      internalID: 156289867181409885
       vertices: []
       indices: 
       edges: []
@@ -144,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      8_rambodisplay_0: -6058072826976217407
+      grass_ground_0: 156289867181409885
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
