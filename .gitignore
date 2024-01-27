@@ -75,9 +75,9 @@ crashlytics-build.properties
 *.psd
 *.blend
 
-/BlenderWorkspace/hamsters
-/BlenderWorkspace/spider
-/BlenderWorkspace/hornet
+/BlenderWorkspace/characters/hamsters
+/BlenderWorkspace/characters/spider
+/BlenderWorkspace/characters/hornet
 
 /BlenderWorkspace/environment/lawn/OG
 /BlenderWorkspace/Taunt.fbx
