@@ -75,4 +75,5 @@ crashlytics-build.properties
 /BlenderWorkspace/characters
 /BlenderWorkspace/environment/lawn/OG
 *.psd
+*.blend
 BlenderWorkspace/Taunt.fbx
