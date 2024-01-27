@@ -48,6 +48,7 @@ public class PlayerMovement : MonoBehaviour
             Vector2 playerVelocity = new Vector2(_rg.velocity.x, moveInput.y * moveSpeed);
         }
     }*/
+
     void Run()
     {
         Vector2 playerVelocity = new Vector2(moveInput.x * moveSpeed, _rg.velocity.y);

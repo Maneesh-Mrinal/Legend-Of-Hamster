@@ -20,7 +20,7 @@ GameObject:
   - component: {fileID: 6414486356838088791}
   m_Layer: 0
   m_Name: Bee
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -230,6 +230,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TargetLoc: {fileID: 0}
+  BeeHealth: 50
 --- !u!50 &5621601666290505169
 Rigidbody2D:
   serializedVersion: 4
@@ -340,5 +341,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animAttack: {fileID: 9027311709713473901}
   myProjectile: {fileID: 4324224355314924236, guid: 1a77d7f1f446af4428f32d3bbb2a3ec0, type: 3}
-  timebtwShots: 3
+  timebtwShots: 10
   timercount: 0
