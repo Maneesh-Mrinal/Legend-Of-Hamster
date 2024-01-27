@@ -503,7 +503,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rambo_idle_0: 7840435458948212485
+      rambo_idle_1: 4624040184362502621
+      rambo_idle_10: 4832891613920653609
+      rambo_idle_11: -5954079708926651710
+      rambo_idle_12: 2313902784720984189
+      rambo_idle_13: 1876849842864290701
+      rambo_idle_14: 4935319780062483959
+      rambo_idle_15: -1569975592574789759
+      rambo_idle_2: 5231167475060777698
+      rambo_idle_3: 7065419722187208460
+      rambo_idle_4: -3682574789992513027
+      rambo_idle_5: 2040334176251854913
+      rambo_idle_6: 1650739973152590707
+      rambo_idle_7: 3452338682465072574
+      rambo_idle_8: -4546745538973538162
+      rambo_idle_9: -5046398695980300726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

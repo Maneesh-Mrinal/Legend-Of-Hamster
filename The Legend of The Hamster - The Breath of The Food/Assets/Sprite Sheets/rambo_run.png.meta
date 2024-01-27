@@ -863,7 +863,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rambo_run_0: 3609732139035627633
+      rambo_run_1: 8429300569946551720
+      rambo_run_10: 276610928739725124
+      rambo_run_11: -4203464804473586842
+      rambo_run_12: -2925864901713823743
+      rambo_run_13: 6371715562494352870
+      rambo_run_14: -3971705387826764819
+      rambo_run_15: 1265718834266426391
+      rambo_run_16: -5823565991717000826
+      rambo_run_17: -2237935488109313586
+      rambo_run_18: 2759564531333066190
+      rambo_run_19: -59141851314596517
+      rambo_run_2: -6201323955945243749
+      rambo_run_20: 7992849825493437488
+      rambo_run_21: -3467918597791228957
+      rambo_run_22: -2551768021038621571
+      rambo_run_23: 8566483327825184868
+      rambo_run_24: -4520890675354539414
+      rambo_run_25: -810014631835718604
+      rambo_run_26: -3883552752871403577
+      rambo_run_27: 8342332539120246006
+      rambo_run_28: -1982738093630836388
+      rambo_run_29: -455543316974995151
+      rambo_run_3: -6831560600037516333
+      rambo_run_30: -861838258296073315
+      rambo_run_4: 7275044158084935308
+      rambo_run_5: -5020245695507785620
+      rambo_run_6: -1200828276788532456
+      rambo_run_7: -1565169574229827644
+      rambo_run_8: -5364522842637693808
+      rambo_run_9: 3392018920595842015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
