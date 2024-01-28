@@ -25,8 +25,12 @@ public class PlayerMovement : MonoBehaviour
     public bool isGunEnabled = false;
     public bool isGunCollected = false;
     public int spiderDamage = 10;
+    public AudioSource audioSource;
+
+
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         _rg = GetComponent<Rigidbody2D>();
         _anim = GetComponent<Animator>();
         capcol = GetComponent<CapsuleCollider2D>();
@@ -44,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
         checkHealth();
         UpdateSeedCount();
     }
-    public void SavePlayer ()
+    public void SavePlayer()
     {
         SaveSystem.SavePlayer(this);
     }
@@ -77,7 +81,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void checkHealth()
     {
-        if(playerHealth <= 0)
+        if (playerHealth <= 0)
         {
             SceneManager.LoadSceneAsync("Game Over");
         }
@@ -103,27 +107,29 @@ public class PlayerMovement : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.CompareTag("RamboPower") == true)
+        if (other.CompareTag("RamboPower") == true)
         {
             Destroy(other.gameObject);
+
             ramboPicture.SetActive(true);
             gun.SetActive(true);
             isGunCollected = true;
             isGunEnabled = true;
+            audioSource.Play();
             StartCoroutine(WaitForTwoSeconds());
             ramboPicture.SetActive(false);
         }
-        if(other.CompareTag("Damage Objects"))
+        if (other.CompareTag("Damage Objects"))
         {
             playerHealth -= other.gameObject.GetComponent<MoveProjectile>().damageDealt;
             Destroy(other.gameObject);
         }
-        if(other.CompareTag("Seed"))
+        if (other.CompareTag("Seed"))
         {
             Destroy(other.gameObject);
             collectedSeedCount++;
         }
-        if(other.CompareTag("Spider"))
+        if (other.CompareTag("Spider"))
         {
             playerHealth -= spiderDamage;
         }
