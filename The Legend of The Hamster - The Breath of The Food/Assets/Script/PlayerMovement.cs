@@ -25,12 +25,13 @@ public class PlayerMovement : MonoBehaviour
     public bool isGunEnabled = false;
     public bool isGunCollected = false;
     public int spiderDamage = 10;
-    public AudioSource audioSource;
-
+    public AudioSource contraAudio;
+    public AudioSource hitAudio;
 
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();
+        contraAudio = GetComponent<AudioSource>();
+        hitAudio = GetComponent<AudioSource>();
         _rg = GetComponent<Rigidbody2D>();
         _anim = GetComponent<Animator>();
         capcol = GetComponent<CapsuleCollider2D>();
@@ -38,6 +39,7 @@ public class PlayerMovement : MonoBehaviour
         {
             LoadPlayer();
         }
+
     }
 
     void Update()
@@ -115,6 +117,7 @@ public class PlayerMovement : MonoBehaviour
             isGunCollected = true;
             isGunEnabled = true;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             if (audioSource != null && audioSource.clip != null)
             {
                 audioSource.Play();
@@ -123,12 +126,16 @@ public class PlayerMovement : MonoBehaviour
 =======
             _anim.SetBool("isRambo", true);
 >>>>>>> Stashed changes
+=======
+            contraAudio.Play();
+>>>>>>> Stashed changes
             StartCoroutine(WaitForTwoSeconds());
             ramboPicture.SetActive(false);
         }
         if (other.CompareTag("Damage Objects"))
         {
             playerHealth -= other.gameObject.GetComponent<MoveProjectile>().damageDealt;
+            hitAudio.Play();
             Destroy(other.gameObject);
         }
         if (other.CompareTag("Seed"))

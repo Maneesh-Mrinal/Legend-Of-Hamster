@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Seed
   - Spider
+  - audio
   layers:
   - Default
   - TransparentFX
