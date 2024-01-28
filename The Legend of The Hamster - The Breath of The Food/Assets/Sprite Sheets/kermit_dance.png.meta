@@ -1,0 +1,3127 @@
+fileFormatVersion: 2
+guid: d8145b73a26823b4ab1a951966277042
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7114133219730109592
+    second: kermit_dance_0
+  - first:
+      213: -7395583803195800635
+    second: kermit_dance_1
+  - first:
+      213: 2151852542468248413
+    second: kermit_dance_2
+  - first:
+      213: 3775616194282800418
+    second: kermit_dance_3
+  - first:
+      213: -794088953212479089
+    second: kermit_dance_4
+  - first:
+      213: -2365047792181468873
+    second: kermit_dance_5
+  - first:
+      213: -5113969239496107069
+    second: kermit_dance_6
+  - first:
+      213: 7617485251540735972
+    second: kermit_dance_7
+  - first:
+      213: -7891843984556051329
+    second: kermit_dance_8
+  - first:
+      213: -552898791481530806
+    second: kermit_dance_9
+  - first:
+      213: 4783987046555488193
+    second: kermit_dance_10
+  - first:
+      213: -7862800602551282685
+    second: kermit_dance_11
+  - first:
+      213: -1952005071651601723
+    second: kermit_dance_12
+  - first:
+      213: -18739613064525240
+    second: kermit_dance_13
+  - first:
+      213: -8931732317995659923
+    second: kermit_dance_14
+  - first:
+      213: -4709876182975644333
+    second: kermit_dance_15
+  - first:
+      213: -2226306651082624282
+    second: kermit_dance_16
+  - first:
+      213: -5453767557437109946
+    second: kermit_dance_17
+  - first:
+      213: 8717982428686545887
+    second: kermit_dance_18
+  - first:
+      213: 7664175028500616602
+    second: kermit_dance_19
+  - first:
+      213: 3212937702568384133
+    second: kermit_dance_20
+  - first:
+      213: -2939529296195422511
+    second: kermit_dance_21
+  - first:
+      213: 7690203399208021290
+    second: kermit_dance_22
+  - first:
+      213: -727049776319799725
+    second: kermit_dance_23
+  - first:
+      213: 9051145710068284565
+    second: kermit_dance_24
+  - first:
+      213: 6700499772765358656
+    second: kermit_dance_25
+  - first:
+      213: -1419566509109206472
+    second: kermit_dance_26
+  - first:
+      213: 8443331267611102001
+    second: kermit_dance_27
+  - first:
+      213: 2058729415902715770
+    second: kermit_dance_28
+  - first:
+      213: 2023183002056602752
+    second: kermit_dance_29
+  - first:
+      213: -24499299729719526
+    second: kermit_dance_30
+  - first:
+      213: -4053737411456805527
+    second: kermit_dance_31
+  - first:
+      213: 8890961312990926759
+    second: kermit_dance_32
+  - first:
+      213: 5028393403085788164
+    second: kermit_dance_33
+  - first:
+      213: 6893278776054848139
+    second: kermit_dance_34
+  - first:
+      213: -2334159512177038743
+    second: kermit_dance_35
+  - first:
+      213: 6735836646033205696
+    second: kermit_dance_36
+  - first:
+      213: 6922268539343790538
+    second: kermit_dance_37
+  - first:
+      213: 2019669665903777991
+    second: kermit_dance_38
+  - first:
+      213: -4295155270480176722
+    second: kermit_dance_39
+  - first:
+      213: 2140182101843067426
+    second: kermit_dance_40
+  - first:
+      213: 6985484499687940271
+    second: kermit_dance_41
+  - first:
+      213: -7630026561569629109
+    second: kermit_dance_42
+  - first:
+      213: 1805311205067538152
+    second: kermit_dance_43
+  - first:
+      213: -7732982865756459222
+    second: kermit_dance_44
+  - first:
+      213: -6112940723307210609
+    second: kermit_dance_45
+  - first:
+      213: 563173992951123569
+    second: kermit_dance_46
+  - first:
+      213: -126269264197681458
+    second: kermit_dance_47
+  - first:
+      213: 3069422785209146761
+    second: kermit_dance_48
+  - first:
+      213: 1316672209597662691
+    second: kermit_dance_49
+  - first:
+      213: -5900531364129151072
+    second: kermit_dance_50
+  - first:
+      213: 7733815689451878869
+    second: kermit_dance_51
+  - first:
+      213: -627003951941652830
+    second: kermit_dance_52
+  - first:
+      213: -5658421804943968331
+    second: kermit_dance_53
+  - first:
+      213: 1521593873193663303
+    second: kermit_dance_54
+  - first:
+      213: -4227552658520980333
+    second: kermit_dance_55
+  - first:
+      213: 1134502183554561450
+    second: kermit_dance_56
+  - first:
+      213: -7050518726485891440
+    second: kermit_dance_57
+  - first:
+      213: 6134451901751690625
+    second: kermit_dance_58
+  - first:
+      213: -1769943286806884687
+    second: kermit_dance_59
+  - first:
+      213: -1203778320196332538
+    second: kermit_dance_60
+  - first:
+      213: -8815503988572543313
+    second: kermit_dance_61
+  - first:
+      213: 319527172860968943
+    second: kermit_dance_62
+  - first:
+      213: 6096318301694442930
+    second: kermit_dance_63
+  - first:
+      213: -4986870802234664354
+    second: kermit_dance_64
+  - first:
+      213: 5391483028816172884
+    second: kermit_dance_65
+  - first:
+      213: -2286490263900223458
+    second: kermit_dance_66
+  - first:
+      213: -9099509071405698832
+    second: kermit_dance_67
+  - first:
+      213: -1682766656181371976
+    second: kermit_dance_68
+  - first:
+      213: 359798567135833139
+    second: kermit_dance_69
+  - first:
+      213: 8435845057305664984
+    second: kermit_dance_70
+  - first:
+      213: -338030279937074252
+    second: kermit_dance_71
+  - first:
+      213: 3549180989824636742
+    second: kermit_dance_72
+  - first:
+      213: -3788944839061520885
+    second: kermit_dance_73
+  - first:
+      213: -2800099154999141092
+    second: kermit_dance_74
+  - first:
+      213: -5911242495672769712
+    second: kermit_dance_75
+  - first:
+      213: -8524430356243881901
+    second: kermit_dance_76
+  - first:
+      213: 8340391299719228540
+    second: kermit_dance_77
+  - first:
+      213: 2441337610275967319
+    second: kermit_dance_78
+  - first:
+      213: 1408772671191899423
+    second: kermit_dance_79
+  - first:
+      213: -1958242343621320188
+    second: kermit_dance_80
+  - first:
+      213: -1479677638475330815
+    second: kermit_dance_81
+  - first:
+      213: 2276723295236175648
+    second: kermit_dance_82
+  - first:
+      213: 9010782324929187432
+    second: kermit_dance_83
+  - first:
+      213: -6808089449737222643
+    second: kermit_dance_84
+  - first:
+      213: 427365555767881082
+    second: kermit_dance_85
+  - first:
+      213: 2047969228967890174
+    second: kermit_dance_86
+  - first:
+      213: -3509661842866788488
+    second: kermit_dance_87
+  - first:
+      213: 3251960809544697749
+    second: kermit_dance_88
+  - first:
+      213: 256523406173345489
+    second: kermit_dance_89
+  - first:
+      213: -3576666384415676666
+    second: kermit_dance_90
+  - first:
+      213: -617845316922734926
+    second: kermit_dance_91
+  - first:
+      213: -436789523826146366
+    second: kermit_dance_92
+  - first:
+      213: 7407587837807246088
+    second: kermit_dance_93
+  - first:
+      213: 9212256881105569503
+    second: kermit_dance_94
+  - first:
+      213: -112778450257539814
+    second: kermit_dance_95
+  - first:
+      213: -6714640016972056280
+    second: kermit_dance_96
+  - first:
+      213: 8875009096295471704
+    second: kermit_dance_97
+  - first:
+      213: -1668377947540745128
+    second: kermit_dance_98
+  - first:
+      213: -7941204995117399056
+    second: kermit_dance_99
+  - first:
+      213: -8589702020156351631
+    second: kermit_dance_100
+  - first:
+      213: 503995599658203626
+    second: kermit_dance_101
+  - first:
+      213: 365660192540781123
+    second: kermit_dance_102
+  - first:
+      213: 911081378820658757
+    second: kermit_dance_103
+  - first:
+      213: 2303320916381625909
+    second: kermit_dance_104
+  - first:
+      213: 1660919792872860841
+    second: kermit_dance_105
+  - first:
+      213: 2077459168877730663
+    second: kermit_dance_106
+  - first:
+      213: -3747520400907929271
+    second: kermit_dance_107
+  - first:
+      213: 2700622689080254135
+    second: kermit_dance_108
+  - first:
+      213: -459375977791714680
+    second: kermit_dance_109
+  - first:
+      213: 4327322933931087324
+    second: kermit_dance_110
+  - first:
+      213: 4931473746600688411
+    second: kermit_dance_111
+  - first:
+      213: -5129771882464890991
+    second: kermit_dance_112
+  - first:
+      213: -1771414069637459894
+    second: kermit_dance_113
+  - first:
+      213: 3132568725318576938
+    second: kermit_dance_114
+  - first:
+      213: -1826376059273443352
+    second: kermit_dance_115
+  - first:
+      213: -326378582406037084
+    second: kermit_dance_116
+  - first:
+      213: 9108592047768186591
+    second: kermit_dance_117
+  - first:
+      213: -8369981858099404997
+    second: kermit_dance_118
+  - first:
+      213: 2302988503175632911
+    second: kermit_dance_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kermit_dance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0dbd2357eb5d6488b8fa9beeb05754
+      internalID: 606132924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482be13b080d38741b150e490479cf33
+      internalID: 1886106833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d1388f30b292448a37bf5ce3a62085
+      internalID: 491744813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655e8b9b90067a344b0de90524d31cbe
+      internalID: -432653807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15c3f8679d95f043826ac0d03ad852d
+      internalID: 545282492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d50c6db50f4ae408787fdab386b34d
+      internalID: 804760529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b02659ba11f6a428f4af2f44637113
+      internalID: 1875704085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_7
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dcc63b14c3c26439718b8ca91420b1
+      internalID: -389717803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_8
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ea6f08b48bc141bf68605650148b9
+      internalID: 354700701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_9
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b494d438421ca64dbb49cd831b40463
+      internalID: -1606162444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_10
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 10800
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a048b91c8e38f6e40b9a2eabc3431885
+      internalID: 1093180054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d02302ef9ea3c449fdd0c091859053
+      internalID: 66105386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6279a23720649647aec530416f2ca34
+      internalID: -51419789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_13
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a62fa75a32d654e890123a5305fd02
+      internalID: 1202100277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_14
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b78837098d1ef49a8af530d95cc195
+      internalID: -1190818290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_15
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc52729bbc5ad4bb4921479ff84e57
+      internalID: 1744581577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_16
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f2fd9896136d34bbc99742b3427fea
+      internalID: 1773099020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_17
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b97dd8bbd5e774882c35ca8d812b30
+      internalID: -1779251885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_18
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6444dfbc387ae842a169adb563de83f
+      internalID: -31310305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_19
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85de31af9ebb7843b68c2b734f01d0f
+      internalID: 2071827911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_20
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc48acf9a3ef414b9e058744f78e893
+      internalID: -1389849926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_21
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b66e86ea8c6f14296ec02fb38d76c8
+      internalID: -1131190049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bfc454f6a34ff4aad7832dd073a3b3
+      internalID: 950987315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e90cbc83351934e850584c1cfdce6d
+      internalID: 602022955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_24
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fdf3ee7395a844c8b11db73f763619
+      internalID: -627023699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_25
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9e24214e0a76c4d938f2a4c5348e23
+      internalID: -376602030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_26
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd6dc05b3312c439e926df79dad8cc
+      internalID: 1608075984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_27
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee8cbbff3ad874ebaf3c90221ec6a6
+      internalID: -1541816459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_28
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8120ec7d93d1d6479249967e0ea2a25
+      internalID: 1943440470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_29
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7555e9fa9e9927846b7f0f9fec1748f2
+      internalID: -354668174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_30
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4493bd91f7fa9245a1836682d2b304b
+      internalID: 1943956398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_31
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360e2a612cd84f458aaacb982449a4a
+      internalID: -1619270668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_32
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8ea9c555d67244fa67b081203ab095
+      internalID: -968014541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7a1172d8d1a4e46bae27ce3f2a66de
+      internalID: -59750166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87f2f8c03025634981969e7674a29fa
+      internalID: -1741288662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_35
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc86324717167744db84bc20b6625bda
+      internalID: 194580192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_36
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740b62d707d0d948a8830c52df6dd65
+      internalID: -1756336456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_37
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e88dc2de05092943b7a460dba08eef0
+      internalID: 1142462257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_38
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2325dbf75089f41ac4c2b1d571a075
+      internalID: 976167651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_39
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556f334cf6f48bf4e9b2e099dbdcadbd
+      internalID: 140799077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_40
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c14b2a3f5f5ad844bbc7ca3b69c177d
+      internalID: -1480437862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_41
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a192eaf5fbccc041a439633a683e957
+      internalID: 736428684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_42
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b958bdc8f99294b9d5196a1b28ed71
+      internalID: 155849609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_43
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f3500d7a547b4cb1e7b7335e6aabd
+      internalID: 522226140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9cc0e05fc5cd49b7976b100a64a98
+      internalID: 1047807398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_45
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886297c6a187bb544a213c8e8fd6bb1a
+      internalID: -628799506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_46
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2af1fa4a10fad458c30688205dcd33
+      internalID: 720759987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_47
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b8a803a09b0544786a29769d71a06d
+      internalID: 528363989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_48
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbba982ded7a88b4cb306aa0216a590d
+      internalID: 1556480617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_49
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd46bfcba01f36a4eaed403c26f0a168
+      internalID: -767193054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_50
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf13e94bbfa69499d26a01c81295e5
+      internalID: 1301985327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_51
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76347be1d7d6e084096a3bca2f3b7ad7
+      internalID: 1394580212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_52
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb8b5f5bcc40f849bc3959b1a420d19
+      internalID: 1484771626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_53
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de57454fc8dc1ad4695b61851e9f8957
+      internalID: 822074890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_54
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a121831a518249887244ef45a61b1
+      internalID: 448871081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141905abe27eaaf4aa1ac73741d42341
+      internalID: 752116317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_56
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a58f45ab6a60e429e1dbe9eea31848
+      internalID: 1271078540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_57
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b813582645356f44b4137ec91815e36
+      internalID: -1245483099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_58
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f598649fd08c46aa9aadd93051e51
+      internalID: -130943442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_59
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a6b502a7590a04093c5e295fbaaaaa
+      internalID: -806929260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_60
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd28f5cf337ac314495d716d5141533b
+      internalID: -1982596981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_61
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fecc0337ff2fcf4dac48527cedac92a
+      internalID: -763493432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_62
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d8dd8b839fda47b605d2a46f66ee0
+      internalID: -227335449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_63
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281791bf71c208439e2c54e7b4770d6
+      internalID: -1778195418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_64
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336fcf5b3e32c7a4c8e91422bd1d4d56
+      internalID: 591776787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_65
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe7470c44b7b14ca80fb56198fb66e
+      internalID: 1679786142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56849a33a6a52064984cbe8804654daf
+      internalID: 1420293838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_67
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8134315bbc8ec04293764e2eee90ceb
+      internalID: 1772253686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_68
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525c4644d18571840862fadf2b585659
+      internalID: 1769942510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_69
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb1cd7ffdd3827498884dbf1ec51aa3
+      internalID: 2004036541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_70
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423ed122a0c139458f6be1d2186b05f
+      internalID: 2093318601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_71
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfe2dd9576b3d0409878e6d2792b910
+      internalID: 2113403084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_72
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df94331b28c0e524ebabcec078447ca2
+      internalID: -506867286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_73
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5c95292486d7f4fad8ef067bdaf0ab
+      internalID: 45255149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_74
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5774378101f2546a18b2784c2f7b39
+      internalID: 486853711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_75
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc40082c539d9243a8ed903f7c9cb02
+      internalID: -1095506490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_76
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a10eb6f2a70c246a7ef4251b3d3f1d
+      internalID: -562892851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d94e250a3438a4a847ae72092fa96f
+      internalID: -929987070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_78
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a18eee3a8264044896de9420aa6796b
+      internalID: 8888296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f177c9c1e0dfc4f8428669a34315d5
+      internalID: -617895178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_80
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce473ad4001d9094db4dbff0a35eeaba
+      internalID: 1737407495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_81
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94dc5fe0e8546744bd1473f0f04f24c
+      internalID: 1272585719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_82
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac12b70d91e6c70479ac10b466f25e33
+      internalID: 71150222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_83
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee336569fd7ac5438d34f9f5e125242
+      internalID: -569321800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_84
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89d7291948ae145809c3f8c26783a0
+      internalID: 1856682589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_85
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b4cf6440f86b40890d199afde92c4
+      internalID: 917788485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_86
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbd9f95964e4754cbcadf6193735b7b
+      internalID: -280495726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_87
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5431351faf45a442b5b9bbc80f850d6
+      internalID: -498949836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6fcd9aa5c55e4a8887985a95e7d66
+      internalID: -871641239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_89
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6cf12c309b78847bbfaff149863566
+      internalID: -1479038068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_90
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f42a2f20064b4fae951d25f105295
+      internalID: 431436426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_91
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3189b2ed6e4c46b549631d036bd79
+      internalID: 1119895021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_92
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f762ef8375604da409852e5e78db6
+      internalID: 1131377363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_93
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d465d55ce042045bef62b18a4c66c2
+      internalID: 953490325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_94
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18d15a5ae74634595b9e3fff2f51a6
+      internalID: 855553909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_95
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509d3d1ffe71d07408a8a2ad5fac0d8e
+      internalID: -638759637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_96
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b7ff2276c3c8f419638ea9df99f824
+      internalID: -1439265251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_97
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906f0abd8a55db4791346929b6140e1
+      internalID: -734606586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_98
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88630bd368ec164fbf3af1b8b2f87b5
+      internalID: 674418219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610bbc46324024429955d154ee66d66
+      internalID: 147058689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_100
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4944995eb6d6744a14e7cade8fa9a4
+      internalID: -575404291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_101
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dc9c6e582447b4faba492582d2b15c
+      internalID: 1920393790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_102
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eda7f101d6c964c95734eeecc97a9d
+      internalID: -1853979788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_103
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18acf5acfe2a247accfa7f787d5da6
+      internalID: -1573659148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_104
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1603e4b0a7ee47042a51ecb71f3dba27
+      internalID: -196337660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_105
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cff74a5476d644584a7fccd65a4f48
+      internalID: 683515927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_106
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389de9428ee2237419b29d4a674c82e0
+      internalID: -1873987044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_107
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1dda2c97a27b40b8818c2aafafd7e
+      internalID: -1815137197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_108
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd92c61d1356d04e9aa913b190f3a7c
+      internalID: 666333591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_109
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152827e3151ec6458f2b52af1dd477e
+      internalID: 1800429219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891c637904674749a95a3cab7b4051b
+      internalID: 1654326262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_111
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187e7295f57558945b84bc0184cc8f28
+      internalID: 867060187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_112
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c38247010f9f584bbea9f44b4eec6ae
+      internalID: -1314250256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_113
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8b5e179f8579a4ca3381d83c93ab96
+      internalID: 429213807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_114
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676c6d0c6f7df646a14a5078e07b1db
+      internalID: -1074459592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_115
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9fc016375ae6846b041302279720c1
+      internalID: -1782345308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_116
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946f13003df037f419d68f2422e4df36
+      internalID: -1780074351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_117
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4271992f2a24024a91b5cdf8765718e
+      internalID: 1360894225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_118
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e23bf2db1451488abfdc1d9816bdb
+      internalID: 851457647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kermit_dance_119
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a81367a23a1545a973043dfe1ba28
+      internalID: -1249918803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e97cee8efd678543a4a4c899f6cc955
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kermit_dance_0: 606132924
+      kermit_dance_1: 1886106833
+      kermit_dance_10: 1093180054
+      kermit_dance_100: -575404291
+      kermit_dance_101: 1920393790
+      kermit_dance_102: -1853979788
+      kermit_dance_103: -1573659148
+      kermit_dance_104: -196337660
+      kermit_dance_105: 683515927
+      kermit_dance_106: -1873987044
+      kermit_dance_107: -1815137197
+      kermit_dance_108: 666333591
+      kermit_dance_109: 1800429219
+      kermit_dance_11: 66105386
+      kermit_dance_110: 1654326262
+      kermit_dance_111: 867060187
+      kermit_dance_112: -1314250256
+      kermit_dance_113: 429213807
+      kermit_dance_114: -1074459592
+      kermit_dance_115: -1782345308
+      kermit_dance_116: -1780074351
+      kermit_dance_117: 1360894225
+      kermit_dance_118: 851457647
+      kermit_dance_119: -1249918803
+      kermit_dance_12: -51419789
+      kermit_dance_13: 1202100277
+      kermit_dance_14: -1190818290
+      kermit_dance_15: 1744581577
+      kermit_dance_16: 1773099020
+      kermit_dance_17: -1779251885
+      kermit_dance_18: -31310305
+      kermit_dance_19: 2071827911
+      kermit_dance_2: 491744813
+      kermit_dance_20: -1389849926
+      kermit_dance_21: -1131190049
+      kermit_dance_22: 950987315
+      kermit_dance_23: 602022955
+      kermit_dance_24: -627023699
+      kermit_dance_25: -376602030
+      kermit_dance_26: 1608075984
+      kermit_dance_27: -1541816459
+      kermit_dance_28: 1943440470
+      kermit_dance_29: -354668174
+      kermit_dance_3: -432653807
+      kermit_dance_30: 1943956398
+      kermit_dance_31: -1619270668
+      kermit_dance_32: -968014541
+      kermit_dance_33: -59750166
+      kermit_dance_34: -1741288662
+      kermit_dance_35: 194580192
+      kermit_dance_36: -1756336456
+      kermit_dance_37: 1142462257
+      kermit_dance_38: 976167651
+      kermit_dance_39: 140799077
+      kermit_dance_4: 545282492
+      kermit_dance_40: -1480437862
+      kermit_dance_41: 736428684
+      kermit_dance_42: 155849609
+      kermit_dance_43: 522226140
+      kermit_dance_44: 1047807398
+      kermit_dance_45: -628799506
+      kermit_dance_46: 720759987
+      kermit_dance_47: 528363989
+      kermit_dance_48: 1556480617
+      kermit_dance_49: -767193054
+      kermit_dance_5: 804760529
+      kermit_dance_50: 1301985327
+      kermit_dance_51: 1394580212
+      kermit_dance_52: 1484771626
+      kermit_dance_53: 822074890
+      kermit_dance_54: 448871081
+      kermit_dance_55: 752116317
+      kermit_dance_56: 1271078540
+      kermit_dance_57: -1245483099
+      kermit_dance_58: -130943442
+      kermit_dance_59: -806929260
+      kermit_dance_6: 1875704085
+      kermit_dance_60: -1982596981
+      kermit_dance_61: -763493432
+      kermit_dance_62: -227335449
+      kermit_dance_63: -1778195418
+      kermit_dance_64: 591776787
+      kermit_dance_65: 1679786142
+      kermit_dance_66: 1420293838
+      kermit_dance_67: 1772253686
+      kermit_dance_68: 1769942510
+      kermit_dance_69: 2004036541
+      kermit_dance_7: -389717803
+      kermit_dance_70: 2093318601
+      kermit_dance_71: 2113403084
+      kermit_dance_72: -506867286
+      kermit_dance_73: 45255149
+      kermit_dance_74: 486853711
+      kermit_dance_75: -1095506490
+      kermit_dance_76: -562892851
+      kermit_dance_77: -929987070
+      kermit_dance_78: 8888296
+      kermit_dance_79: -617895178
+      kermit_dance_8: 354700701
+      kermit_dance_80: 1737407495
+      kermit_dance_81: 1272585719
+      kermit_dance_82: 71150222
+      kermit_dance_83: -569321800
+      kermit_dance_84: 1856682589
+      kermit_dance_85: 917788485
+      kermit_dance_86: -280495726
+      kermit_dance_87: -498949836
+      kermit_dance_88: -871641239
+      kermit_dance_89: -1479038068
+      kermit_dance_9: -1606162444
+      kermit_dance_90: 431436426
+      kermit_dance_91: 1119895021
+      kermit_dance_92: 1131377363
+      kermit_dance_93: 953490325
+      kermit_dance_94: 855553909
+      kermit_dance_95: -638759637
+      kermit_dance_96: -1439265251
+      kermit_dance_97: -734606586
+      kermit_dance_98: 674418219
+      kermit_dance_99: 147058689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
