@@ -27,12 +27,12 @@ public class PlayerMovement : MonoBehaviour
     public int spiderDamage = 10;
     public int FrogDamage = 40;
     public AudioSource contraAudio;
-    public AudioSource hitAudio;
+    public AudioSource coinSound;
 
     void Start()
     {
-        contraAudio = GetComponent<AudioSource>();
-        hitAudio = GetComponent<AudioSource>();
+        //contraAudio = GetComponent<AudioSource>();
+        coinSound = GetComponent<AudioSource>();
         _rg = GetComponent<Rigidbody2D>();
         _anim = GetComponent<Animator>();
         capcol = GetComponent<CapsuleCollider2D>();
@@ -125,19 +125,19 @@ public class PlayerMovement : MonoBehaviour
         if (other.CompareTag("Damage Objects"))
         {
             playerHealth -= other.gameObject.GetComponent<MoveProjectile>().damageDealt;
-            hitAudio.Play();
             Destroy(other.gameObject);
         }
         if (other.CompareTag("Seed"))
         {
             Destroy(other.gameObject);
+            coinSound.Play();
             collectedSeedCount++;
         }
         if (other.CompareTag("Spider"))
         {
             playerHealth -= spiderDamage;
         }
-        if(other.CompareTag("MusicNote"))
+        if (other.CompareTag("MusicNote"))
         {
             playerHealth -= FrogDamage;
         }
