@@ -11,8 +11,8 @@ public class PlayerMovement : MonoBehaviour
 {
     Vector2 moveInput;
     Rigidbody2D _rg;
-    [SerializeField] float moveSpeed = 2f;
-    [SerializeField] float jumpSpeed = 2f;
+    [SerializeField] float moveSpeed = 15f;
+    [SerializeField] float jumpSpeed = 50f;
     public Animator _anim;
     public Animator _animZoom;
     CapsuleCollider2D capcol;
@@ -25,19 +25,21 @@ public class PlayerMovement : MonoBehaviour
     public bool isGunEnabled = false;
     public bool isGunCollected = false;
     public int spiderDamage = 10;
+    public int FrogDamage = 40;
     public AudioSource contraAudio;
-    public AudioSource hitAudio;
+    public AudioSource coinSound;
 
     void Start()
     {
-        contraAudio = GetComponent<AudioSource>();
-        hitAudio = GetComponent<AudioSource>();
+        //contraAudio = GetComponent<AudioSource>();
+        coinSound = GetComponent<AudioSource>();
         _rg = GetComponent<Rigidbody2D>();
         _anim = GetComponent<Animator>();
         capcol = GetComponent<CapsuleCollider2D>();
-        if (SceneManager.GetActiveScene().name == "Level Attic" || SceneManager.GetActiveScene().name == "Level Kitchen")
+        if (SceneManager.GetActiveScene().name != "Level Lawn")
         {
             LoadPlayer();
+
         }
 
     }
@@ -49,6 +51,20 @@ public class PlayerMovement : MonoBehaviour
         HealthBar.value = playerHealth;
         checkHealth();
         UpdateSeedCount();
+        if (Input.GetKeyDown(KeyCode.Alpha1) && isGunCollected)
+        {
+            isGunEnabled = false;
+            gun.SetActive(false);
+            _anim.SetBool("isRambo", false);
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha2) && isGunCollected)
+        {
+            isGunEnabled = true;
+            gun.SetActive(true);
+            _anim.SetBool("isRambo", true);
+            moveSpeed = 10f;
+            jumpSpeed = 30f;
+        }
     }
     public void SavePlayer()
     {
@@ -124,17 +140,21 @@ public class PlayerMovement : MonoBehaviour
         if (other.CompareTag("Damage Objects"))
         {
             playerHealth -= other.gameObject.GetComponent<MoveProjectile>().damageDealt;
-            hitAudio.Play();
             Destroy(other.gameObject);
         }
         if (other.CompareTag("Seed"))
         {
             Destroy(other.gameObject);
+            coinSound.Play();
             collectedSeedCount++;
         }
         if (other.CompareTag("Spider"))
         {
             playerHealth -= spiderDamage;
+        }
+        if (other.CompareTag("MusicNote"))
+        {
+            playerHealth -= FrogDamage;
         }
     }
     IEnumerator WaitForTwoSeconds()
