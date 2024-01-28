@@ -114,11 +114,15 @@ public class PlayerMovement : MonoBehaviour
             gun.SetActive(true);
             isGunCollected = true;
             isGunEnabled = true;
+<<<<<<< Updated upstream
             if (audioSource != null && audioSource.clip != null)
             {
                 audioSource.Play();
             }
             //audioSource.Play();
+=======
+            _anim.SetBool("isRambo", true);
+>>>>>>> Stashed changes
             StartCoroutine(WaitForTwoSeconds());
             ramboPicture.SetActive(false);
         }

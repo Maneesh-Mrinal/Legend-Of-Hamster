@@ -14,15 +14,6 @@ public static class SaveSystem
         formatter.Serialize(stream, data);
         stream.Close();
     }
-    public static void SavePlayer(GameManager gm)
-    {
-        BinaryFormatter formatter = new BinaryFormatter();
-        string path = Application.persistentDataPath + "/playergm.madeyoulaugh";
-        FileStream stream = new FileStream(path, FileMode.Create);
-        PlayerData data = new PlayerData(gm);
-        formatter.Serialize(stream, data);
-        stream.Close();
-    }
     public static PlayerData LoadPlayer()
     {
         string path = Application.persistentDataPath + "/player.madeyoulaugh";

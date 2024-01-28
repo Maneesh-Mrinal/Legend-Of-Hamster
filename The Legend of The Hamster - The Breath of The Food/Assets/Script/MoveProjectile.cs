@@ -10,6 +10,7 @@ public class MoveProjectile : MonoBehaviour
     GameObject targetObject;
     public Vector2 targetLocation = Vector2.zero;
     public int damageDealt = 1;
+    public float timeToDestroy = 15f;
     void Start()
     {
         targetObject = GameObject.FindWithTag("Player");
@@ -24,5 +25,11 @@ public class MoveProjectile : MonoBehaviour
             targetLocation,
             moveSpeed * Time.deltaTime
             );
+        StartCoroutine(WaitforTSeconds());
+    }
+    IEnumerator WaitforTSeconds()
+    {
+        yield return new WaitForSeconds( timeToDestroy );
+        Destroy(gameObject);
     }
 }
