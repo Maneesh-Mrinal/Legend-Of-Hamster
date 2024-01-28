@@ -25,15 +25,7 @@ public class GameManager : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        if(isCutScene1 == false)
-        {
-            Scene currentScene = SceneManager.GetActiveScene();
-            if (currentScene.name == "CutScene Start")
-            {
-                isCutScene1 = true;
-                StartCoroutine(WaitForCutSceneOne());
-            }
-        }
+        
     }
 
     public void winButton()
@@ -56,7 +48,7 @@ public class GameManager : MonoBehaviour
     }
     IEnumerator WaitForCutSceneOne()
     {
-        yield return new WaitForSeconds(60f);
+        yield return new WaitForSeconds(60);
     }
 
     public void returnToMainMenu()
