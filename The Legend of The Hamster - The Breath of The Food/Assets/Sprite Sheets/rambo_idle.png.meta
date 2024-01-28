@@ -161,10 +161,10 @@ TextureImporter:
       name: rambo_idle_0
       rect:
         serializedVersion: 2
-        x: 121
-        y: 3239
-        width: 639
-        height: 886
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: rambo_idle_1
       rect:
         serializedVersion: 2
-        x: 1201
-        y: 3239
-        width: 639
-        height: 886
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: rambo_idle_2
       rect:
         serializedVersion: 2
-        x: 2281
-        y: 3239
-        width: 639
-        height: 886
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,10 +224,10 @@ TextureImporter:
       name: rambo_idle_3
       rect:
         serializedVersion: 2
-        x: 3361
-        y: 3239
-        width: 639
-        height: 886
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,10 +245,10 @@ TextureImporter:
       name: rambo_idle_4
       rect:
         serializedVersion: 2
-        x: 108
-        y: 2159
-        width: 652
-        height: 886
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,10 +266,10 @@ TextureImporter:
       name: rambo_idle_5
       rect:
         serializedVersion: 2
-        x: 1188
-        y: 2159
-        width: 665
-        height: 886
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,10 +287,10 @@ TextureImporter:
       name: rambo_idle_6
       rect:
         serializedVersion: 2
-        x: 2268
-        y: 2159
-        width: 665
-        height: 886
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: rambo_idle_7
       rect:
         serializedVersion: 2
-        x: 3348
-        y: 2159
-        width: 665
-        height: 886
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,10 +329,10 @@ TextureImporter:
       name: rambo_idle_8
       rect:
         serializedVersion: 2
-        x: 108
-        y: 1079
-        width: 665
-        height: 886
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,10 +350,10 @@ TextureImporter:
       name: rambo_idle_9
       rect:
         serializedVersion: 2
-        x: 1188
-        y: 1079
-        width: 665
-        height: 886
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,10 +371,10 @@ TextureImporter:
       name: rambo_idle_10
       rect:
         serializedVersion: 2
-        x: 2268
-        y: 1079
-        width: 665
-        height: 886
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: rambo_idle_11
       rect:
         serializedVersion: 2
-        x: 3348
-        y: 1079
-        width: 652
-        height: 886
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +413,10 @@ TextureImporter:
       name: rambo_idle_12
       rect:
         serializedVersion: 2
-        x: 121
+        x: 0
         y: 0
-        width: 639
-        height: 885
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +434,10 @@ TextureImporter:
       name: rambo_idle_13
       rect:
         serializedVersion: 2
-        x: 1201
+        x: 1080
         y: 0
-        width: 639
-        height: 885
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,10 +455,10 @@ TextureImporter:
       name: rambo_idle_14
       rect:
         serializedVersion: 2
-        x: 2281
+        x: 2160
         y: 0
-        width: 639
-        height: 885
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +476,10 @@ TextureImporter:
       name: rambo_idle_15
       rect:
         serializedVersion: 2
-        x: 3361
+        x: 3240
         y: 0
-        width: 639
-        height: 885
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,7 +496,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 31b6a674c41b7f345a349048c29898e0
     internalID: 0
     vertices: []
     indices: 

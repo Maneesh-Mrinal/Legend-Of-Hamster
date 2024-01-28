@@ -9,10 +9,6 @@ public class PlayerData
     public int seedCount;
     public bool isGunEnabled = false;
     public bool isGunCollected = false;
-    public PlayerData(GameManager gameManager)
-    {
-        isFirstTime = gameManager.isFirstTime;
-    }
     public PlayerData(PlayerMovement player)
     {
         playHealth = player.playerHealth;

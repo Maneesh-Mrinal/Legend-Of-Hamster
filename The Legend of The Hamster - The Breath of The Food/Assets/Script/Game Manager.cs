@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
     public bool isFirstTime = true;
     public float timer = 0f;
     public bool isCutScene1 = false;
+    public Animator bigboyanim;
+    public Animator fridgeAnim;
     public void playButton()
     {
         if (isFirstTime == true)
@@ -33,9 +35,24 @@ public class GameManager : MonoBehaviour
             }
         }
     }
+
+    public void winButton()
+    {
+        fridgeAnim.SetTrigger("isOpening");
+        StartCoroutine(WaitforOneSecond());
+        SceneManager.LoadScene("Win Scene");
+    }
+    public void BigBoyButton()
+    {
+        bigboyanim.SetTrigger("Dialogue Start");
+    }
     public void exitButton()
     {
         Application.Quit();
+    }
+    IEnumerator WaitforOneSecond()
+    {
+        yield return new WaitForSeconds(1f);
     }
     IEnumerator WaitForCutSceneOne()
     {
