@@ -81,7 +81,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: 544168529, guid: d208ad957d05023418916dfd931c4b33, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -199,13 +199,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c37e7c16d360b3846ba559b767040e36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
+  moveSpeed: 15
   jumpSpeed: 50
   _anim: {fileID: 8863481438307802912}
   _animZoom: {fileID: 0}
   gun: {fileID: 7986921140396236672}
   ramboPicture: {fileID: 0}
   playerHealth: 100
+  collectedSeedCount: 0
+  HealthBar: {fileID: 0}
+  NumberOfSeeds: {fileID: 0}
+  isGunEnabled: 0
+  isGunCollected: 0
 --- !u!95 &8863481438307802912
 Animator:
   serializedVersion: 7

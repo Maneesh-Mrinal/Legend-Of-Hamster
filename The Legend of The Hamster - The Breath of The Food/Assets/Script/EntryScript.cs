@@ -5,7 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class EntryScript : MonoBehaviour
 {
+    public string nextScene;
     public GameObject InteractButton;
+    public GameObject PlayerChar;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,24 +17,28 @@ public class EntryScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            EButton();
+        }
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Entrance"))
+        if(collision.CompareTag("Player"))
         {
             InteractButton.SetActive(true);
         }
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("Entrance"))
+        if (collision.CompareTag("Player"))
         {
             InteractButton.SetActive(false);
         }
     }
     public void EButton()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(nextScene);
+        PlayerChar.gameObject.GetComponent<PlayerMovement>().SavePlayer();
     }
 }
