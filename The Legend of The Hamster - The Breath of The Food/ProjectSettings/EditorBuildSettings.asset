@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Menu.unity
+    guid: e014398df5c07ff4f8783380d72418ef
+  - enabled: 1
+    path: Assets/Scenes/CutScene Start.unity
+    guid: 67fc3408945b04743ac8d4b7d196ee3f
+  - enabled: 1
+    path: Assets/Scenes/Level Lawn.unity
+    guid: 3174ba15bc3df7e44962b7573a564396
+  - enabled: 1
+    path: Assets/Scenes/Level Attic.unity
+    guid: e5498c07650452b49b73225c596d50ef
+  - enabled: 1
+    path: Assets/Scenes/Level Kitchen.unity
+    guid: 24a1bae9174d7404badfa1fe2b7d220b
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: fd4e039fd09c8244a82ec62b785b25ac, type: 2}
   m_UseUCBPForAssetBundles: 0
