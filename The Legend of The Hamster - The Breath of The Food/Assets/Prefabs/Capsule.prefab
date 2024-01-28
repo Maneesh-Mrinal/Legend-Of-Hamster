@@ -102,6 +102,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 20
   angle: 0
+  BulletDamage: 5
 --- !u!70 &-2045054870940831860
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

@@ -11,8 +11,8 @@ public class PlayerMovement : MonoBehaviour
 {
     Vector2 moveInput;
     Rigidbody2D _rg;
-    [SerializeField] float moveSpeed = 2f;
-    [SerializeField] float jumpSpeed = 2f;
+    [SerializeField] float moveSpeed = 15f;
+    [SerializeField] float jumpSpeed = 50f;
     public Animator _anim;
     public Animator _animZoom;
     CapsuleCollider2D capcol;
@@ -39,6 +39,7 @@ public class PlayerMovement : MonoBehaviour
         if (SceneManager.GetActiveScene().name != "Level Lawn")
         {
             LoadPlayer();
+
         }
 
     }
@@ -50,6 +51,20 @@ public class PlayerMovement : MonoBehaviour
         HealthBar.value = playerHealth;
         checkHealth();
         UpdateSeedCount();
+        if (Input.GetKeyDown(KeyCode.Alpha1) && isGunCollected)
+        {
+            isGunEnabled = false;
+            gun.SetActive(false);
+            _anim.SetBool("isRambo", false);
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha2) && isGunCollected)
+        {
+            isGunEnabled = true;
+            gun.SetActive(true);
+            _anim.SetBool("isRambo", true);
+            moveSpeed = 10f;
+            jumpSpeed = 30f;
+        }
     }
     public void SavePlayer()
     {
