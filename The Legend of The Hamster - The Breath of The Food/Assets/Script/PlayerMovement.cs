@@ -25,6 +25,7 @@ public class PlayerMovement : MonoBehaviour
     public bool isGunEnabled = false;
     public bool isGunCollected = false;
     public int spiderDamage = 10;
+    public int FrogDamage = 40;
     public AudioSource contraAudio;
     public AudioSource hitAudio;
 
@@ -35,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
         _rg = GetComponent<Rigidbody2D>();
         _anim = GetComponent<Animator>();
         capcol = GetComponent<CapsuleCollider2D>();
-        if (SceneManager.GetActiveScene().name == "Level Attic" || SceneManager.GetActiveScene().name == "Level Kitchen")
+        if (SceneManager.GetActiveScene().name != "Level Lawn")
         {
             LoadPlayer();
         }
@@ -135,6 +136,10 @@ public class PlayerMovement : MonoBehaviour
         if (other.CompareTag("Spider"))
         {
             playerHealth -= spiderDamage;
+        }
+        if(other.CompareTag("MusicNote"))
+        {
+            playerHealth -= FrogDamage;
         }
     }
     IEnumerator WaitForTwoSeconds()
