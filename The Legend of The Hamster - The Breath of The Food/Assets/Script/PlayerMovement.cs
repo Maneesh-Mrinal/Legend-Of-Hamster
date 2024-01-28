@@ -110,12 +110,15 @@ public class PlayerMovement : MonoBehaviour
         if (other.CompareTag("RamboPower") == true)
         {
             Destroy(other.gameObject);
-
             ramboPicture.SetActive(true);
             gun.SetActive(true);
             isGunCollected = true;
             isGunEnabled = true;
-            audioSource.Play();
+            if (audioSource != null && audioSource.clip != null)
+            {
+                audioSource.Play();
+            }
+            //audioSource.Play();
             StartCoroutine(WaitForTwoSeconds());
             ramboPicture.SetActive(false);
         }
