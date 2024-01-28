@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class TriggerBasedButton : MonoBehaviour
 {
     public Button butE;
+    public Animator ani;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +22,10 @@ public class TriggerBasedButton : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+                ani.SetTrigger("Dialogue Start");
+            }
             butE.gameObject.SetActive(true);
         }
     }

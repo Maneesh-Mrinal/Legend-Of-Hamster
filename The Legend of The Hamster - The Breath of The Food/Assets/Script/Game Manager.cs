@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class GameManager : MonoBehaviour
     public bool isCutScene1 = false;
     public Animator bigboyanim;
     public Animator fridgeAnim;
+    public GameObject Dialogue;
     public void playButton()
     {
         if (isFirstTime == true)
@@ -36,6 +38,7 @@ public class GameManager : MonoBehaviour
     }
     public void BigBoyButton()
     {
+        Dialogue.SetActive(true);
         bigboyanim.SetTrigger("Dialogue Start");
     }
     public void exitButton()

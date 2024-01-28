@@ -18,8 +18,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Level Attic.unity
     guid: e5498c07650452b49b73225c596d50ef
   - enabled: 1
-    path: Assets/Scenes/Level Kitchen.unity
-    guid: 24a1bae9174d7404badfa1fe2b7d220b
+    path: Assets/Scenes/Boss Fight.unity
+    guid: 2bea156867f3cc04b88c1ae83d7dd132
+  - enabled: 1
+    path: Assets/Scenes/Level Kitchen 1.unity
+    guid: 38ac070ccb163ca4489f046f87da0c9f
+  - enabled: 1
+    path: Assets/Scenes/Win Scene.unity
+    guid: 56c51913cc0e51c41af34933fc2becd2
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: fd4e039fd09c8244a82ec62b785b25ac, type: 2}
   m_UseUCBPForAssetBundles: 0

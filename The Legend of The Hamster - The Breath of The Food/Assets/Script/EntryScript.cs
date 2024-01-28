@@ -17,15 +17,16 @@ public class EntryScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            EButton();
-        }
+        
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.CompareTag("Player"))
         {
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+                EButton();
+            }
             InteractButton.SetActive(true);
         }
     }
@@ -39,6 +40,7 @@ public class EntryScript : MonoBehaviour
     public void EButton()
     {
         SceneManager.LoadScene(nextScene);
-        PlayerChar.gameObject.GetComponent<PlayerMovement>().SavePlayer();
+        //PlayerChar.gameObject.GetComponent<PlayerMovement>().SavePlayer();
+
     }
 }
