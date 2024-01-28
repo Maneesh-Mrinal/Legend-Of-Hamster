@@ -509,6 +509,28 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7ac5760224177ed48b4001725f07b42e, type: 3}
+--- !u!114 &625326688 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1528570478902019872, guid: 7ac5760224177ed48b4001725f07b42e, type: 3}
+  m_PrefabInstance: {fileID: 625326687}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &625326689 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 81310923860375933, guid: 7ac5760224177ed48b4001725f07b42e, type: 3}
+  m_PrefabInstance: {fileID: 625326687}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &657444213
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1593,10 +1615,32 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7071981073447366420, guid: cc56c3dd06bd5644da20e6910c896ff9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1605900337}
     - targetCorrespondingSourceObject: {fileID: 6691804065500174363, guid: cc56c3dd06bd5644da20e6910c896ff9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 958425775}
   m_SourcePrefab: {fileID: 100100000, guid: cc56c3dd06bd5644da20e6910c896ff9, type: 3}
+--- !u!1 &1605900336 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7071981073447366420, guid: cc56c3dd06bd5644da20e6910c896ff9, type: 3}
+  m_PrefabInstance: {fileID: 1605900335}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1605900337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1605900336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0c3492949f146a4cbe691ea2ce08b2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthPoints: 200
+  isDead: 0
 --- !u!1001 &1745689806
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2124,7 +2168,7 @@ PrefabInstance:
     - target: {fileID: 3865516936083545550, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
       propertyPath: HealthBar
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 625326689}
     - target: {fileID: 3865516936083545550, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
       propertyPath: jumpSpeed
       value: 55
@@ -2132,7 +2176,7 @@ PrefabInstance:
     - target: {fileID: 3865516936083545550, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
       propertyPath: NumberOfSeeds
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 625326688}
     - target: {fileID: 3865516936083545550, guid: 09e2bbb3927f2214596b0e8213531a9e, type: 3}
       propertyPath: isGunCollected
       value: 0

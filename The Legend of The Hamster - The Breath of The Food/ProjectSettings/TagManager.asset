@@ -11,6 +11,7 @@ TagManager:
   - Spider
   - audio
   - MusicNote
+  - Bullets
   layers:
   - Default
   - TransparentFX
@@ -18,7 +19,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
+  - Power Layer
   - 
   - 
   - 
