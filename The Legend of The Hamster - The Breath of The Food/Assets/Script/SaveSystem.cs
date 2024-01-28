@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
 
@@ -8,7 +7,7 @@ public static class SaveSystem
     public static void SavePlayer (PlayerMovement player)
     {
         BinaryFormatter formatter = new BinaryFormatter();
-        string path = Application.persistentDataPath + "/player.madeyoulaugh";
+        string path = Application.persistentDataPath + "/player.savefile";
         FileStream stream = new FileStream(path, FileMode.Create);
         PlayerData data =  new PlayerData(player);
         formatter.Serialize(stream, data);
@@ -16,7 +15,7 @@ public static class SaveSystem
     }
     public static PlayerData LoadPlayer()
     {
-        string path = Application.persistentDataPath + "/player.madeyoulaugh";
+        string path = Application.persistentDataPath + "/player.savefile";
         if(File.Exists(path))
         {
             BinaryFormatter formatter = new BinaryFormatter ();
