@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RX-78-02_Gundam_29_Front_0: 19963584819602362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
