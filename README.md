@@ -1,6 +1,5 @@
 # THE LEGEND OF THE HAMSTER: THE BREATH OF THE FOOD HEAVEN
 
-![Game Logo/Icon](link_to_logo_or_icon.png)
 
 ## Overview
 
@@ -27,10 +26,6 @@ To play Hamster's Food Adventure, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/hamsters-food-adventure.git
-
-## Contributing
-
-If you would like to contribute to Hamster's Food Adventure, please follow our [Contribution Guidelines](link-to-guidelines).
 
 ## License
 
