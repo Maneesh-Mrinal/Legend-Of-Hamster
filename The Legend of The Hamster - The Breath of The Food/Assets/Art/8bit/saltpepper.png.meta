@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      saltpepper_0: -8446217721763744229
+      saltpepper_1: 1058598292957655336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

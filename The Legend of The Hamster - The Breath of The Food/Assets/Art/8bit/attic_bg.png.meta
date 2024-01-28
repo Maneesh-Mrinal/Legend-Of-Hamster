@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      attic_bg_0: -4889221777594494115
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
