@@ -14,9 +14,9 @@ It is about a group of hamster that are denied their rights to good food. So, th
 - **Challenging Gameplay**: Navigate through different levels, avoiding deadly insects and monsters that pose a threat to The Hamster's mission.
 
 - **Collaborative Development**: The game is a result of the collaborative efforts of a talented team:
-  - **Maneesh Mrinal S (Game Design & Development, Scripting, Asset Creation)**
-  - **Joshua (Artwork, Animation, Asset Creation)**
-  - **Maria Robin Andrew (Sound Design, UI/UX)**
+  - **[Maneesh Mrinal S](https://github.com/Maneesh-Mrinal) (Game Design & Development, Scripting, Asset Creation)**
+  - **[Joshua S Raju](https://github.com/JoshuaR26) (Artwork, Animation, Asset Creation)**
+  - **[Maria Robin Andrew](https://github.com/maria-robin-andrew) (Sound Design, UI/UX)**
 
 ## Installation
 
